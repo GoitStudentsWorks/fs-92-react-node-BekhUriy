@@ -10,7 +10,7 @@ import ModalProvider from './components/Home/DailyNorma/DailyNormaModal/ModalPro
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   // <React.StrictMode>
-  <BrowserRouter basename="/WaterTracker">
+  <BrowserRouter basename="/fs-92-react-node-BekhUriy">
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         <ModalProvider>
