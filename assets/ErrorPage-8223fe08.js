@@ -1,4 +1,4 @@
-import{u as t,j as e}from"./index-9367ed3c.js";import{C as n,B as i}from"./Signup.styled-19917dd5.js";const o=t.h1`
+import{u as t,j as e}from"./index-579bc625.js";import{C as n,B as i}from"./Signup.styled-26152879.js";const o=t.h1`
 margin-top: 15px;
 font-size: 32px;
 font-weight: 400;
