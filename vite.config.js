@@ -12,5 +12,5 @@ export default defineConfig({
       assets: '/src/assets',
     },
   },
-  base: 'https://bekhuriy.github.io/WaterTracker',
+  base: '/fs-92-react-node-BekhUriy',
 });
